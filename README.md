@@ -1,6 +1,6 @@
 # discord-mana-icons
 
-A subset of Discord's redesigned icons, sourced from the [discord/discord-api-docs](https://github.com/discord/discord-api-docs/) which includes them as .jsx files, licensed under MIT.
+A subset of Discord's redesigned icons, sourced from the [discord/discord-api-docs](https://github.com/discord/discord-api-docs/tree/1b1f1fe5b8fa4a1b1dcccdc358547b95787f1138) which includes them as .jsx files, licensed under MIT.
 
 ## Icons
 
